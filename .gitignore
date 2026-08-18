@@ -1,5 +1,6 @@
 *.xlsx
 *.pptx
 *.png
+*.json
 __pycache__/
 *.pyc
